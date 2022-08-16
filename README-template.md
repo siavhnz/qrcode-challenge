@@ -54,6 +54,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Mobile-first workflow
 - CSS custom properties
 - Flexbox
+- box-sizing
 
 
 ### What I learned
@@ -86,6 +87,8 @@ I need more work on [CSS layout](https://developer.mozilla.org/en-US/docs/Learn/
 - [CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) - Great for reusing specific values throughout a document
 
 - [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - To lay out an Html file
+
+- [Box-sizing](https://www.w3schools.com/css/css3_box-sizing.asp) - It specifies whether the padding and border properties of a tag reflect the size of the tag or not.
 
 ## Author
 
