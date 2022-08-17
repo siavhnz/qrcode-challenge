@@ -43,7 +43,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Mobile-first workflow
 - CSS custom properties
-- Flexbox (we can omit flexbox in this solution)
+- Flexbox
+- Relative values
 - Grammarly app for git commits and comments correctness
 
 
@@ -88,8 +89,11 @@ I need more work on [CSS layout](https://developer.mozilla.org/en-US/docs/Learn/
 
 Special Thank To:
 
+[Dear Lucas](https://www.frontendmentor.io/profile/correlucas) for his great feedback on my first solution
+
 [Frontendmentor.io](https://www.frontendmentor.io/challenges) for their Excitement challenges  
 
 [Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en) for such a great extension
 
 [Minim youtube channel](https://www.youtube.com/watch?v=waiZqfefo14) for good stuff about css like vw value 
+
