@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [qrcode-github.com](https://github.com/siavhnz/qrcode-challenge/style.css)
+- Solution URL: [qrcode-github.com](https://github.com/siavhnz/qrcode-challenge/blob/master/style.css)
 - Live Site URL: [qrcode-github.io](https://siavhnz.github.io/frontendmentor/1.qrcode/index.html)
 
 ## My process
