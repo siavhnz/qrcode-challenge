@@ -20,12 +20,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![screenshot](./images/screenshot.png)
+![screenshot](./images/screenshot.JPG)
 
 ### Links
 
-- Solution URL: [qrcode-github.com](https://github.com/siavhnz/qrcode-challenge)
-- Live Site URL: [qrcode-github.io](https://siavhnz.github.io/frontendmentor/qrcode.html)
+- Solution URL: [qrcode-github.com](https://github.com/siavhnz/qrcode-challenge/style.css)
+- Live Site URL: [qrcode-github.io](https://siavhnz.github.io/frontendmentor/1.qrcode/index.html)
 
 ## My process
 
@@ -35,23 +35,21 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Use Chrome Developer tools to design mobile-first
 - Add CSS styles based on the styled-guide.md file
 - Check styles with Perfect Pixel Chrome Extension
-- Create styles for Desktop viewport 
+- Create styles for Desktop viewport and test it
 - Refine styles 
 
 
 ### Built with
 
-- Grammarly app for git commits and comments correctness
 - Mobile-first workflow
 - CSS custom properties
 - Flexbox (we can omit flexbox in this solution)
+- Grammarly app for git commits and comments correctness
 
 
 ### What I learned
 
-1. It seems irrelevant, but I used the Grammarly app for the first time to improve my Git commits and comments on this challenge. And I think for other tasks that I have I use it too Because I learned that Git commits and commands must show their meaning correctly.
-
-2. How to use Css custom properties (variables)
+1. How to use Css custom properties (variables)
 
 ```CSS
 :root {
@@ -62,11 +60,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     color: var(--paragraph-color);
 }
 ```
-3. I learned how to work with [Perfect Pixel Chrome Extension](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en)
+2. I learned how to work with [Perfect Pixel Chrome Extension](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en)
+
+3. A little bit about vw, vh, vmin, vmax and also CSS layout like Flexbox
 
 4. [Some Markdown code](https://www.markdownguide.org/)
 
-5. A little bit about vw, vh, vmin, vmax and also CSS layout like Flexbox
+5. It seems irrelevant, but I used the Grammarly app for the first time to improve my Git commits and comments on this challenge. And I think for other tasks that I have I use it too Because I learned that Git commits and commands must show their meaning correctly.
 
 ### Continued development
 
