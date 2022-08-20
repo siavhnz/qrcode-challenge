@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H){:target="_blank"}.
 
 ## Table of contents
 
@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/mobilefirst-responsive-card-using-media-query--Srtj3P02H)
-- Live Site: [github.io](https://siavhnz.github.io/frontendmentor/1.qrcode/index.html)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/mobilefirst-responsive-card-using-media-query--Srtj3P02H){:target="_blank"}
+- Live Site: [github.io](https://siavhnz.github.io/frontendmentor/1.qrcode/index.html){:target="_blank"}
 
 ## My process
 
@@ -61,39 +61,39 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     color: var(--paragraph-color);
 }
 ```
-2. I learned how to work with [Perfect Pixel Chrome Extension](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en)
+2. I learned how to work with [Perfect Pixel Chrome Extension](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en){:target="_blank"}
 
 3. A little bit about vw, vh, vmin, vmax and also CSS layout like Flexbox
 
-4. [Some Markdown code](https://www.markdownguide.org/)
+4. [Some Markdown code](https://www.markdownguide.org/){:target="_blank"}
 
 5. It seems irrelevant, but I used the Grammarly app for the first time to improve my Git commits and comments on this challenge. And I think for other tasks that I have I use it too Because I learned that Git commits and commands must show their meaning correctly.
 
 ### Continued development
 
-I need more work on [CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) and [CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
+I need more work on [CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox){:target="_blank"} and [CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units){:target="_blank"}
 
 ### Useful resources
 
-- [CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) - Great for reusing specific values throughout a document
+- [CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties){:target="_blank"} - Great for reusing specific values throughout a document
 
-- [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - To lay out an Html file
+- [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox){:target="_blank"} - To lay out an Html file
 
-- [Box-sizing](https://www.w3schools.com/css/css3_box-sizing.asp) - It specifies whether the padding and border properties of a tag reflect the size of the tag or not.
+- [Box-sizing](https://www.w3schools.com/css/css3_box-sizing.asp){:target="_blank"} - It specifies whether the padding and border properties of a tag reflect the size of the tag or not.
 
 ## Author
 
-- Frontend Mentor - [@siavhnz](https://www.frontendmentor.io/profile/siavhnz)
+- Frontend Mentor - [@siavhnz](https://www.frontendmentor.io/profile/siavhnz){:target="_blank"}
 
 ## Acknowledgments
 
 Special Thank To:
 
-[Dear Lucas](https://www.frontendmentor.io/profile/correlucas) for his great feedback on my first solution
+[Dear Lucas](https://www.frontendmentor.io/profile/correlucas){:target="_blank"} for his great feedback on my first solution
 
-[Frontendmentor.io](https://www.frontendmentor.io/challenges) for their Excitement challenges  
+[Frontendmentor.io](https://www.frontendmentor.io/challenges){:target="_blank"} for their Excitement challenges  
 
-[Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en) for such a great extension
+[Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en){:target="_blank"} for such a great extension
 
-[Minim youtube channel](https://www.youtube.com/watch?v=waiZqfefo14) for good stuff about css like vw value 
+[Minim youtube channel](https://www.youtube.com/watch?v=waiZqfefo14){:target="_blank"} for good stuff about css like vw value 
 
