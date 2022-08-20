@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/mobilefirst-responsive-card-using-media-query--Srtj3P02H)
-- Live Site: [github.io](https://siavhnz.github.io/frontendmentor/1.qrcode/index.html)
+- Solution URL: [qrcode-github.com](https://github.com/siavhnz/qrcode-challenge/blob/master/style.css)
+- Live Site URL: [qrcode-github.io](https://siavhnz.github.io/frontendmentor/1.qrcode/index.html)
 
 ## My process
 
